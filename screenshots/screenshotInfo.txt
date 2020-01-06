@@ -1,0 +1,24 @@
+Screenshot 1496978355422__0:
+Top Left Coordinates: -0.19947102864583335 + -0.6753906249999999i
+Zoom (width): 2^-10
+# of iterations: 10000
+
+Screenshot 1496978355422__1:
+Top Left Coordinates: -0.19947102864583335 + -0.6753906249999999i
+Zoom (width): 2^-10
+# of iterations: 10000
+
+Screenshot 1496978355422__2:
+Top Left Coordinates: -0.19947102864583335 + -0.6753906249999999i
+Zoom (width): 2^-10
+# of iterations: 511
+
+Screenshot 1497541907672__0:
+Top Left Coordinates: -1.0168661642819647 + -0.27749519720673554i
+Zoom (width): 2^-23
+# of iterations: 10000
+
+Screenshot 1497541907672__1:
+Top Left Coordinates: -1.0168661642819647 + -0.27749519720673554i
+Zoom (width): 2^-23
+# of iterations: 10000
